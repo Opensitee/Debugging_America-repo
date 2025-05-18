@@ -3,3 +3,5 @@ easyocr
 Phidata
 Pillow
 numpy
+Gemini
+google.generativeai 
