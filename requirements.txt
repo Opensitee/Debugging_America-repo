@@ -1,5 +1,5 @@
 streamlit
 easyocr
-phi.agent
+phi init
 Pillow
 numpy
