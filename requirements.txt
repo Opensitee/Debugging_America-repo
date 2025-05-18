@@ -3,6 +3,6 @@ easyocr
 Phidata
 Pillow
 numpy
-
+google-generativeai
 
 
