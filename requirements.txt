@@ -4,4 +4,4 @@ Phidata
 Pillow
 numpy
 Gemini
-google.generativeai 
+genai
