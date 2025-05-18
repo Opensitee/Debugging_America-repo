@@ -3,8 +3,6 @@ easyocr
 Phidata
 Pillow
 numpy
-Gemini
-genai
-google
+
 utlis
-pip
+
