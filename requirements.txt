@@ -4,5 +4,5 @@ Phidata
 Pillow
 numpy
 google-generativeai
-phi.tools.tavily 
+tavily 
 
